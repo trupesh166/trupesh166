@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trupesk166&label=Profile%20views&color=0e75b6&style=flat" alt="trupesk166" /> </p>
 
-- 🔭 I’m currently working on **DashStack**
+- 🔭 I’m currently working on **HMS**
 
 - 🌱 I’m currently learning **Front End Development**
 
